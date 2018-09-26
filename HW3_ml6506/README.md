@@ -1,4 +1,5 @@
 # PUI HW3_ml6506
+I completed my homework individually, the following are my results.
 ## Assignment 1 Delete data and its history from GitHub
 ### [Screenshots] (Assignment1/README.md)
 ## Assignment 2 Read CSV files with pandas and ise NYC open data portal
