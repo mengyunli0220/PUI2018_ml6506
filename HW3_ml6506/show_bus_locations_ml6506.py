@@ -16,6 +16,8 @@ print(bus_line)
 bus_url="http://bustime.mta.info/api/siri/vehicle-monitoring.json?key="+key+"&VehicleMonitoringDetailLevel=calls&LineRef="+bus_line
 
 print("Bus Line:"+bus_line)
+response = urllib.urlopen(url)
+data = response.read().decode("utf-8")
 
 bus_num = len(data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
 bus_num_str = "Number of Active Buses : "
