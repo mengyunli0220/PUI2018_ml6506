@@ -18,7 +18,7 @@ print(file_name)
 
 bus_url="http://bustime.mta.info/api/siri/vehicle-monitoring.json?key="+key+"&VehicleMonitoringDetailLevel=calls&LineRef="+bus_line+file_name
 
-print("Bus Line:"+bus_line)
+print(bus_url)
 
 js_file=requests.get(bus_url).json()
 buses=js_file['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']
