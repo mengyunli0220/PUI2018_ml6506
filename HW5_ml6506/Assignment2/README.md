@@ -20,4 +20,5 @@ correlated](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.01
 
 ## 2.2 The main plot of the paper (Correlation)
 
-![main plot]()
+![main plot](Correlation.PNG)
+Table 1. Intercorrelations between the mimicry score and all different automatic imitation scores.
