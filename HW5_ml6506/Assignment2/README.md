@@ -1,10 +1,23 @@
-# 1.1 t-test Table
+## 1. t-test
+## 1.1 t-test Table
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------------|:----:|:-------:|:-------|
-t-test	| 1, neighboring grade | dichotomous | 1,  vehicular speeds| continuous | Does the speed at a smaller grade equals that at a neighboring larger grade. |Speed at a smaller grade = Speed at a neighboring larger grade | 0.05 | [Evaluating the impacts of grades on vehicular speeds on interstate highways](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184142) |
+t-test	| 1, neighboring grade | dichotomous | 1,  vehicular speeds| continuous | Does the speed at a smaller grade equals that at a neighboring larger grade? |Speed at a smaller grade = Speed at a neighboring larger grade | 0.05 | [Evaluating the impacts of grades on vehicular speeds on interstate highways](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184142) |
   |||||||||
   
-# 1.2 The main plot of the paper (t-test)
+## 1.2 The main plot of the paper (t-test)
  
  ![main plot](t-test.PNG)
+
+## 2. Correlation
+## 2.1 Correlation Table
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------------|:----:|:-------:|:-------|
+Correlation	| 1, Mimicry | continuous | 1,  Automatic Imitation| continuous | whether mimicry and automatic imitation are actually correlated |Mimicry is correlated with automatic imitation| 0.05 | [Mimicry and automatic imitation are not
+correlated](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183784) |
+  |||||||||
+
+## 2.2 The main plot of the paper (Correlation)
+
+![main plot]()
