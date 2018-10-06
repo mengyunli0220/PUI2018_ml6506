@@ -22,3 +22,7 @@ correlated](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.01
 
 ![main plot](Correlation.PNG)
 Table 1. Intercorrelations between the mimicry score and all different automatic imitation scores.
+
+## 3 Logistic
+## 3.1 Logistic Table
+## 3.2 The main plot of the paper (Logistic)
