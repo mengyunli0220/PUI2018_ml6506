@@ -5,4 +5,4 @@ t-test	| 1, neighboring grade | dichotomous | 1,  vehicular speeds| continuous |
   |||||||||
  The main plot of the paper (the plot that summarized the result)
  
- ![main plot]()
+ ![main plot](t-test.PNG)
