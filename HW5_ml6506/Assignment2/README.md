@@ -1,3 +1,4 @@
+## I completed it with Jingxi Zhao
 ## 1. t-test
 ## 1.1 t-test Table
 
