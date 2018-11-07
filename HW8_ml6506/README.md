@@ -14,6 +14,7 @@ Caption: The plot shows the density of subway station in NYC. I use the subway s
 
 
 
-[Here is the link to my report on AUTHOREA]( )
+[Here is the link to my report on AUTHOREA](https://www.authorea.com/users/249376/articles/335447-2018pui-hw8)
+
 
 
