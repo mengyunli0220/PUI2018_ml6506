@@ -12,7 +12,7 @@ Caption: The plot shows the density of subway station in NYC. I use the subway s
 
 ## Assignment 2: Citi-Bike miniproject
 
-Notebook: [ ] ( )
+Notebook: [HW8_Assignment2] (https://github.com/mengyunli0220/PUI2018_ml6506/blob/master/HW8_ml6506/HW8_Assignment2.ipynb)
 
 [Here is the link to my report on AUTHOREA](https://www.authorea.com/users/249376/articles/335447-2018pui-hw8)
 https://www.authorea.com/users/249376/articles/335447-2018pui-hw8
