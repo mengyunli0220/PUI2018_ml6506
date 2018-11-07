@@ -2,7 +2,6 @@ untitled.html
 figures/download
 9sr1dic71i.html
 ea2cintvh4g.html
-3qe95q0t0g8.tex
 t43vc8os4d8.html
 figures/A2
 6ucvmvcgi2o.html
