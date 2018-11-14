@@ -1,10 +1,12 @@
 
 # Reviewed By ml6506
-The main plot
+
+## The main plot
 ![plot1](https://github.com/mengyunli0220/PUI2018_sjs909/blob/master/HW8_sjs909/Demographics.png)
 
-The plot which is as reference
+## The plot which is as reference
 ![plot1](https://github.com/mengyunli0220/PUI2018_sjs909/blob/master/HW8_sjs909/NYSFproportionLabel.png)
+
 
 ### CLARITY
 
