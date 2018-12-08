@@ -3,4 +3,5 @@
 ## Assignment1 Time series
 
 ## Assignment2 Improve visulization 
-
+* The sugguestions from peers are that the map is not significant enough and a little bit dark. In this case, I changed the scheme from"Equal_interval"  into " Quantiles" , which could better show the difference between areas.
+![plot](HW11_Visualization.png)
