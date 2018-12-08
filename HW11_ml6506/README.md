@@ -1,5 +1,6 @@
 # HW11_ml6506
-* I completed this week homework individually
+* I completed this week homework individually. I used 72 hours extension for this week HW.
+
 ## Assignment1 Time series
 
 ## Assignment2 Improve visulization 
